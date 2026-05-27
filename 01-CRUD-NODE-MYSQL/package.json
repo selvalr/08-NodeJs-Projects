@@ -1,0 +1,22 @@
+{
+  "name": "selva_crud",
+  "version": "1.0.0",
+  "description": "Crud Nodejs Projects",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "selvamanan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.2.2",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "express-handlebars": "^8.0.3",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
