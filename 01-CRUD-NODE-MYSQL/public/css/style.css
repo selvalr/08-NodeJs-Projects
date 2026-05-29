@@ -6,7 +6,7 @@
 }
 
 html {
-  background-color: aqua;
+  background-color: #1e865e;
 }
 body {
   font-family: "Roboto", sans-serif;
@@ -72,8 +72,13 @@ p {
   padding: 5px;
 }
 
+p {
+  padding: 1rem;
+}
 .addbtn {
   background-color: #05822b;
+  padding: 1rem;
+  font-size: 16px;
 }
 
 .form-group {
